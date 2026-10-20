@@ -149,8 +149,6 @@ Some of the insights discovered include:
 ## Future Improvements
 
 - Build an interactive Power BI dashboard
-- Perform statistical analysis using Python
-- Create visualizations for trend analysis
 
 ---
 
@@ -180,3 +178,11 @@ Aspiring Data Analyst
 GitHub: https://github.com/joelokolie
 
 LinkedIn: https://www.linkedin.com/in/joel-okolie
+
+
+## Future Improvements Update
+
+Interactive Power BI dashboard to visualize the insights from this dataset have been built.
+Find it here:
+
+- **[World Layoffs Dashboard](https://github.com/joelokolie/world-layoffs-power-bi-dashboard)**
